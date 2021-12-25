@@ -4,6 +4,9 @@ public class GitDemo {
 	public void venkatesh() {
 System.out.println("gitbasic");
 	}
+	public void add() {
+System.out.println("addition is done ");
+	}
 	public static void main(String[] args) {
 		String s1 ="Greens Technology";
 		String s2 ="Selenium Automation Tool";
